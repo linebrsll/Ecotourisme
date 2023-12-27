@@ -1,0 +1,6 @@
+ignore/
+*.pyc
+.DS_Store
+*.DS_Store
+.vscode/
+plotly/
